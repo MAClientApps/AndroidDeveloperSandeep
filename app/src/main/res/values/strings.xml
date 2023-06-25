@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Developer</string>
+    <string name="discover">Discover</string>
+    <string name="trending_locations_today">Trending locations today</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="feeling_adventurous">Feeling Adventurous?</string>
+    <string name="get"> Get Inspiration from these trending \n Categories. </string>
+    <string name="getTxtT"> Santorini is Largest city in the New \n Osogbo Structure. It has a substantial \n atmosphere and is the most Earth-like \n Satellite in the Solar System.</string>
+    <string name="done">Done</string>
+</resources>
